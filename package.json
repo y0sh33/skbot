@@ -25,7 +25,8 @@
     "hubot-hipchat": "~2.6.4",
     "cheerio": "",
     "flip": "~0.1.0",
-    "nodepie": "0.5.0"
+    "nodepie": "0.5.0",
+    "wolfram": "0.2.2"
   },
   "engines": {
     "node": ">= 0.8.x",
